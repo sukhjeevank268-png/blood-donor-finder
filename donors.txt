@@ -1,0 +1,4 @@
+1|Rahul|22|B+|Kharar|9000000001
+2|Aman|24|A+|Mohali|9000000002
+3|Simran|21|O+|Chandigarh|9000000003
+4|Priya|23|AB+|Ropar|9000000004
