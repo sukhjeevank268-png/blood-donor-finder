@@ -77,11 +77,12 @@ Through this project, I learned:
 - Add blood request and notification features.
 
 ## 👩‍💻 Developer
-Sukhjeevan Kaur
+
+**Sukhjeevan Kaur**
 
 B.Tech – Artificial Intelligence & Machine Learning (AI/ML)
 
-Developed as an academic project to apply C++ programming concepts and practical problem-solving skills.
+Academic Project | C++ Programming
 
 ## ⚠️ Disclaimer
 This is an educational project. Donor information used for demonstration should be dummy data. The application is not a verified blood donation or emergency service.
