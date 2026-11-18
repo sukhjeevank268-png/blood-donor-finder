@@ -1,0 +1,4 @@
+1|sukh|18|B+|kharar|9876543201
+2|diluu|19|A+|amritsar|6789054321
+4|sapna|19|B+|ropar|9876054321
+5|sahaj|19|B+|abheypur|1234509876
